@@ -1,0 +1,90 @@
+body{
+    background-color:#0087c9!important;
+    font: 10pt Arial,sans-serif;
+    font-family: Arial,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 10pt;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    margin: auto;
+}
+#div_m1{
+    background-image: url(http://www3.chenyineng.info/images_style/lt.png);
+    background-position: left;
+    background-size: initial;
+    background-repeat: repeat-y;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    width: 1170px;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    line-height: 1.6;
+    color: rgb(68, 68, 68);
+}
+#div_m2{
+    background-image: url(http://www3.chenyineng.info/images_style/rt.png);
+    background-position: right;
+    background-size: initial;
+    background-repeat: repeat-y;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+}
+#div_m3{
+    background-color:#FFFFFF;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+hr{
+    background: #ccc;
+    color: #ccc;
+    border-style: none;
+    height: 1px;
+}
+a{
+    color: #03c;
+}
+a:visited{
+    color: #03c;
+}
+a:hover{
+    color: #f90;
+}
+a:active{
+    color: #f90;
+}
+a.block:link,a.block:visited
+{
+    display:block;
+    font-weight:bold;
+    font-size:14px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    color:#FFFFFF;
+    background-color:#0087c9;
+    width:87px;
+    text-align:center;
+    padding:4px;
+    text-decoration:none;
+}
+a.block:hover,a.block:active
+{
+    background-color:#0065a7;
+}
+.header li{
+    display: inline-block;
+}
