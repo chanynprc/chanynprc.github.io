@@ -56,17 +56,13 @@ hr{
     border-style: none;
     height: 1px;
 }
-a{
+a:link,a:visited{
     color: #03c;
+    text-decoration: none;
 }
-a:visited{
-    color: #03c;
-}
-a:hover{
+a:hover,a:active{
     color: #f90;
-}
-a:active{
-    color: #f90;
+    text-decoration: none;
 }
 a.block:link,a.block:visited
 {
