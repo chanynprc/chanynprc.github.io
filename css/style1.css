@@ -58,11 +58,9 @@ hr{
 }
 a:link,a:visited{
     color: #03c;
-    text-decoration: none;
 }
 a:hover,a:active{
     color: #f90;
-    text-decoration: none;
 }
 a.block:link,a.block:visited
 {
