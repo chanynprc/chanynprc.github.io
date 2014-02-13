@@ -12,7 +12,7 @@ body{
     margin: auto;
 }
 #div_m1{
-    background-image: url(http://www3.chenyineng.info/images_style/lt.png);
+    background-image: url(/images_style/lt.png);
     background-position: left;
     background-size: initial;
     background-repeat: repeat-y;
@@ -30,7 +30,7 @@ body{
     color: rgb(68, 68, 68);
 }
 #div_m2{
-    background-image: url(http://www3.chenyineng.info/images_style/rt.png);
+    background-image: url(/images_style/rt.png);
     background-position: right;
     background-size: initial;
     background-repeat: repeat-y;
